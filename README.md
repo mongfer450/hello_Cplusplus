@@ -1,3 +1,3 @@
-learning c++
+--- Learning c++ ---
 
-basic syntax
+basic syntax & some mini apps
